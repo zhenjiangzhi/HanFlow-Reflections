@@ -11,8 +11,7 @@ This folder contains the foundational document of HanFlow.
 A cultural and embodied approach to gentle self-care, rooted in Tai Chi and Tuina traditions.  
 It emphasizes slow, attentive, and sustainable engagement with the body — not as performance, but as dialogue.
 
-All content licensed under CC BY 4.0.
+All content licensed under CC BY 4.0.  
+More at: https://www.hanflow365.com
 
-更多信息：https://www.hanflow365.com
-
-HanFlow练习框架总纲，根植于太极与推拿传统，强调缓慢、专注与可持续的身体参与——视身体为对话伙伴，而非待优化的项目。
+HanFlow 练习框架总纲，根植于太极与推拿传统，强调缓慢、专注与可持续的身体参与——视身体为对话伙伴，而非待优化的项目。
