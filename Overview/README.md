@@ -1,20 +1,25 @@
-# Overview Document
+# HanFlow
 
-## Plain Description
+**Welcome to HanFlow — a quiet space for embodied wisdom and gentle self-care.**
 
-This document outlines the foundational framework of HanFlow — a cultural practice space centered on gentle self-care through Tai Chi, Tuina, and mindful movement.
+Quiet explorations of embodied presence, yielding, rhythmic time, and gentle self-care, rooted in Chinese traditions (Tai Chi, Tuina).
 
-## Core Ideas
+## Core Folders
 
-Modern life often treats the body as something to manage, optimize, and push. Yet beneath data and discipline, a quiet disconnection can emerge. We may track our steps but lose the felt sense of being present.
+- **[Overview / 总纲](./Overview)**  
+  Foundational framework and overview document.
 
-HanFlow proposes a different orientation: returning to the body as a conversation partner rather than a performance project. Drawing on Tai Chi and Tuina traditions, this framework emphasizes slow, embodied engagement and sustainable self-care practices for everyday life.
+- **[Tai Chi Series / 太极系列](./TaiChi%20Series)** – 7 Essays  
+  Mindful movement and presence in daily life.
 
-## Scope of the Framework
+- **[Tuina Series / 推拿系列](./Tuina%20Series)** – 7 Essays  
+  Attentive touch and embodied dialogue.
 
-This overview establishes the conceptual structure that informs the Tai Chi series, the Tuina series, and related practice essays within the HanFlow collection.
+All content licensed under CC BY 4.0.  
+More at: https://www.hanflow365.com
 
-## Citation
+**Explore the folders above to begin.**
 
-Zhi, Z. (2026). The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.18639330
+探索具身临在、柔顺、节律时间与温和自我照护的安静思考，根植于中国传统（太极、推拿）。
+
+**请从上面的文件夹开始探索。**
