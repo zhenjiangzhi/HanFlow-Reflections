@@ -18,3 +18,7 @@ This overview establishes the conceptual structure that informs the Tai Chi seri
 
 Zhi, Z. (2026). The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care. Zenodo.  
 DOI: https://doi.org/10.5281/zenodo.18639330
+
+## HanFlow Framework
+
+[Read Full PDF](./HanFlow_Framework.pdf)
