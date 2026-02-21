@@ -14,11 +14,13 @@ HanFlow proposes a different orientation: returning to the body as a conversatio
 
 This overview establishes the conceptual structure that informs the Tai Chi series, the Tuina series, and related practice essays within the HanFlow collection.
 
+## HanFlow Framework
+
+[Read Full PDF](./HanFlow_Framework.pdf)
+
 ## Citation
 
 Zhi, Z. (2026). The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care. Zenodo.  
 DOI: https://doi.org/10.5281/zenodo.18639330
 
-## HanFlow Framework
 
-[Read Full PDF](./HanFlow_Framework.pdf)
