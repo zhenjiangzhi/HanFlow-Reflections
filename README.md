@@ -7,21 +7,7 @@ Quiet explorations of embodied presence, yielding, rhythmic time, gentle self-ca
 ---
 
 ## HanFlow Practice Framework Overview
-HanFlow Reflections
-│
-├─ Overview / 总纲
-│ └─ Foundational framework, author bio, ORCID, Zenodo links
-│
-├─ TaiChi Series / 太极系列 (7 Essays)
-│ └─ Mindful movement and presence in daily life
-│
-├─ Tuina Series / 推拿系列 (7 Essays)
-│ └─ Attentive touch and embodied dialogue
-│
-└─ z-Foot Series / 美食系列 (Manifesto + 9 Essays)
-└─ Relational eating, five tastes awareness, seasonal rhythm, gentle nourishment practice
 
----
 
 ## Core Folders / 核心文件夹
 
