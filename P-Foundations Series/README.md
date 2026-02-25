@@ -29,7 +29,7 @@ They serve as the intellectual backbone for the more practice-oriented series th
 
 ## Essay I — What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)
 
-**DOI**: （待上传 Zenodo 后填入，例如 https://doi.org/10.5281/zenodo.xxxxxxxxxx）  
+**DOI**: https://doi.org/10.5281/zenodo.18769688
 **Published**: 2026  
 
 **Abstract**  
@@ -49,13 +49,3 @@ Tai Chi, embodied practice, attention training, mindful movement, HanFlow framew
 
 **Citation**  
 Zhi, Z. (2026). *What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)*. Zenodo.  
-https://doi.org/10.5281/zenodo.[待填]
-
----
-
-（后续文章添加方式：直接复制上面从 --- 到 Citation 的整块内容，修改标题、DOI、PDF 文件名、Abstract、Core Concepts、Keywords 即可。）
-
-**Note**:  
-- PDF 文件名已统一为 01-Foundations-Essay-I.pdf（请确保实际上传的文件名与之完全一致，包括大小写）。  
-- 每新增一篇 Essay 时，在 # Essays 下方继续添加新块，使用相同的 --- 分隔。  
-- DOI 和 Citation 中的链接请在上传 Zenodo 后替换。
