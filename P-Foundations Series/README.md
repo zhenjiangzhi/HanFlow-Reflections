@@ -41,7 +41,7 @@ This essay offers a clear definition of Tai Chi within the HanFlow framework —
 Tai Chi, embodied practice, attention training, mindful movement, HanFlow framework, non-forcing  
 
 **PDF**  
-[Download PDF](01_Foundations_Essay_I.pdf)  
+[Download PDF](P-Foundations Series/01_Foundations_Essay_I.pdf)  
 
 **Citation**  
 Zhi, Z. (2026). *Essay I — What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)*. Zenodo.  
