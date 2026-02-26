@@ -1,4 +1,4 @@
-<!-- This is the main index page for GitHub Pages -->
+<!-- index.html -->
 
 # HanFlow Reflections
 **Welcome to HanFlow Reflections — a quiet space for embodied wisdom and gentle self-care.**
@@ -17,7 +17,7 @@ Exploring embodied presence, yielding, rhythmic time, gentle self-care, and rela
 ## Core Folders
 
 - **[Overview](Overview/README.md)**  
-  Foundational framework, author bio, ORCID, Zenodo links, series overview, and core theoretical essays.
+  Foundational framework, author bio, ORCID, Zenodo links, and series overview.
 
 - **[TaiChi Series](TaiChi%20Series/README.md)** – 7 Essays  
   Mindful movement and presence in daily life.
