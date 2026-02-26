@@ -35,6 +35,3 @@ Exploring embodied presence, yielding, rhythmic time, gentle self-care, and rela
 
 All content licensed under **CC BY 4.0**.  
 More at: [https://www.hanflow365.com](https://www.hanflow365.com)
-
-**Explore the folders above to begin.**  
-餐桌始终为你摆好。See you at the table.
