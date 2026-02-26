@@ -1,48 +1,20 @@
-# Foundations Series / 基础系列
-A foundational exploration of the HanFlow Practice Framework — the conceptual and philosophical core that connects Tai Chi, Tuina, and mindful eating into a unified system of embodied self-care.
+# HanFlow Framework / HanFlow 实践框架
+## Plain Description
+This document outlines the foundational framework of HanFlow — a cultural practice space centered on gentle self-care through Tai Chi, Tuina, and mindful eating.
 
-Part of the HanFlow Practice Framework.  
-Full series overview: [Overview Document](../Overview/README.md)
+## Core Ideas
+Modern life often treats the body as something to manage, optimize, and push. Yet beneath data and discipline, a quiet disconnection can emerge. We may track our steps but lose the felt sense of being present.
 
-**Author**: Zhenjiang Zhi  
-**Affiliation**: HanFlow Initiative  
-**ORCID**: 0009-0004-3176-4764  
-**Year**: 2026  
-**License**: CC BY 4.0  
-**Series Keywords**: HanFlow Framework, embodied practice, relational self-care, attention training, gentle living, cultural philosophy
+HanFlow proposes a different orientation: returning to the body as a conversation partner rather than a performance project. Drawing on Tai Chi (mindful movement), Tuina (attentive touch), and mindful eating (relational nourishment through five tastes, seasonal rhythm, and attentive presence), this framework emphasizes slow, embodied engagement and sustainable self-care practices for everyday life.
 
----
+## Scope of the Framework
+This overview establishes the conceptual structure that informs the Tai Chi series, the Tuina series, the Food series, and related practice essays within the HanFlow collection.
 
-## Series Abstract
+## HanFlow Framework
+[Read Full PDF](./HanFlow_Framework.pdf)
 
-The Foundations Series lays the philosophical and conceptual groundwork for the entire HanFlow system. It articulates the unifying principles of embodied attention, relational presence, and non-forcing engagement that run through Tai Chi (movement), Tuina (touch), and mindful eating (nourishment).
+## Citation
+Zhi, Z. (2026). The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care. Zenodo.  
+DOI: https://doi.org/10.5281/zenodo.18639330
 
-Rather than treating the body as an object to optimize, these essays reframe it as a living partner in dialogue — a site of intelligence, rhythm, and quiet transformation. The series serves as the theoretical spine for all subsequent practice-oriented series.
-
----
-
-# Essays
-
----
-
-## Essay I — What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)
-
-**DOI**: [填入新 DOI，例如 https://doi.org/10.5281/zenodo.XXXXXXX]  
-**Abstract**  
-This essay offers a clear definition of Tai Chi within the HanFlow framework — as a structured method of embodied attention training through slow, continuous, and circular movement. It distinguishes Tai Chi from common misconceptions (slow exercise, martial art, or seated meditation) and positions it as a practical tool for cultivating internal balance, stability, and presence in daily life.
-
-**Core Concepts**  
-- Embodied attention training  
-- Movement as anchor of awareness  
-- Yielding and non-forcing  
-- Integration of posture, breath, and mind  
-
-**Keywords**  
-Tai Chi, embodied practice, attention training, mindful movement, HanFlow framework, non-forcing  
-
-**PDF**  
-[Download PDF](01_Foundations_Essay_I.pdf)  
-
-**Citation**  
-Zhi, Z. (2026). *Essay I — What Is Tai Chi? A Modern Embodied Perspective (HanFlow Framework)*. Zenodo.  
-https://doi.org/10.5281/zenodo.[你的DOI]
+Author ORCID (all works): https://orcid.org/0009-0004-3176-4764
