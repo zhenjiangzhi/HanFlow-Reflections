@@ -1,54 +1,38 @@
-# HanFlow Framework  
-The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care
+# HanFlow Reflections
+**Welcome to HanFlow Reflections — a quiet space for embodied wisdom and gentle self-care.**
+
+Exploring embodied presence, yielding, rhythmic time, gentle self-care, and relational nourishment through Tai Chi, Tuina, and mindful eating.
 
 **Author**: Zhenjiang Zhi  
 **Affiliation**: HanFlow Initiative  
 **ORCID**: 0009-0004-3176-4764  
-
-**DOI**: https://doi.org/10.5281/zenodo.18639330  
-
 **Year**: 2026  
-**Version**: 1.0  
 **License**: CC BY 4.0  
-
-**Keywords**: HanFlow, embodied practice, Tai Chi, Tuina, mindful eating, gentle self-care, relational nourishment, five tastes  
-
----
-
-## Abstract
-
-The HanFlow Framework proposes an embodied cultural approach to gentle self-care rooted in traditional Chinese practices. Rather than treating the body as a system to optimize or control, HanFlow invites a relational orientation — engaging movement, touch, and nourishment as ongoing conversations with lived experience.
-
-Drawing from Tai Chi (mindful movement), Tuina (attentive therapeutic touch), and mindful eating (five tastes awareness, seasonal rhythm, and relational nourishment), the framework articulates a slow, sustainable, and practice-based model of everyday regulation. It establishes the conceptual foundation for the Tai Chi Series, Tuina Series, Food Series, and related essays within the HanFlow collection.
+**Series Keywords**: Tai Chi, Tuina, Mindful Eating, Embodied Practice, Relational Nourishment, Five Tastes, Seasonal Rhythm, HanFlow Framework
 
 ---
 
-## Plain Description
+## Core Folders
 
-Modern life often treats the body as something to manage, optimize, and push. Beneath data and discipline, however, a quiet disconnection can emerge. We may track our steps yet lose the felt sense of presence.
+- **[Overview](./Overview/README.md)**  
+  Foundational framework, author bio, ORCID, Zenodo links, and series overview.
 
-HanFlow reorients this dynamic. It approaches the body not as a performance project, but as a conversation partner — cultivated through attentive movement, responsive touch, and rhythmic nourishment.
+- **[P-Foundations Series](./P-Foundations%20Series/README.md)**  
+  Conceptual and philosophical core — unifying Tai Chi, Tuina, and mindful eating into a coherent system of embodied self-care.
 
----
+- **[TaiChi Series](./TaiChi%20Series/README.md)** – 7 Essays  
+  Mindful movement and presence in daily life.
 
-## Scope of the Framework
+- **[Tuina Series](./Tuina%20Series/README.md)** – 7 Essays  
+  Attentive touch and embodied dialogue.
 
-This overview establishes the conceptual structure that informs:
-
-- TaiChi Series – mindful movement and yielding intelligence  
-- Tuina Series – regulation through attentive contact  
-- z-Food Series – relational nourishment and five tastes awareness  
-
-Together, these series form the broader HanFlow collection.
-
----
-
-## Full Text
-
-[Read Full PDF](./HanFlow_Framework.pdf)
+- **[z-Foot Series](./z-Foot%20Series/README.md)** – Manifesto + 9 Essays  
+  Relational eating, five tastes awareness, seasonal rhythm, and gentle nourishment.
 
 ---
 
-## Citation
+All content licensed under **CC BY 4.0**.  
+More at: [https://www.hanflow365.com](https://www.hanflow365.com)
 
-Zhi, Z. (2026). *The HanFlow Practice Framework: A Cultural and Embodied Approach to Gentle Self-Care*. Zenodo.  
+请帮我检查
+
